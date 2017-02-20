@@ -1,0 +1,10 @@
+C:\Users\Efthimia\Documents\GitHub\Kragle\Kragle\bin\Debug\Kragle.exe.config
+C:\Users\Efthimia\Documents\GitHub\Kragle\Kragle\bin\Debug\Kragle.exe
+C:\Users\Efthimia\Documents\GitHub\Kragle\Kragle\bin\Debug\Kragle.pdb
+C:\Users\Efthimia\Documents\GitHub\Kragle\Kragle\bin\Debug\Scraper.exe
+C:\Users\Efthimia\Documents\GitHub\Kragle\Kragle\bin\Debug\System.Json.dll
+C:\Users\Efthimia\Documents\GitHub\Kragle\Kragle\bin\Debug\Scraper.pdb
+C:\Users\Efthimia\Documents\GitHub\Kragle\Kragle\bin\Debug\System.Json.xml
+C:\Users\Efthimia\Documents\GitHub\Kragle\Kragle\obj\Debug\KragleCore.csprojResolveAssemblyReference.cache
+C:\Users\Efthimia\Documents\GitHub\Kragle\Kragle\obj\Debug\Kragle.exe
+C:\Users\Efthimia\Documents\GitHub\Kragle\Kragle\obj\Debug\Kragle.pdb
